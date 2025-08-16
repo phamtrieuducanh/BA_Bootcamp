@@ -7,7 +7,7 @@ Chương trình BA Bootcamp Domain tại COLE.VN, một khóa đào tạo chuyê
 - Kỹ năng thực hành & ứng dụng: Tham gia các mini project và case study thực tế trong từng domain, rèn luyện kỹ năng phân tích yêu cầu, thiết kế quy trình và xây dựng giải pháp.
 - Trải nghiệm cùng mentor thực chiến: Được hướng dẫn, phản hồi và chia sẻ kinh nghiệm trực tiếp từ các chuyên gia BA tại các tập đoàn, công ty lớn.
 => Khóa học đã giúp tôi tự tin hơn trong vai trò Business Analyst, đặc biệt là khả năng phân tích nghiệp vụ gắn liền với từng domain cụ thể, từ đó có thể áp dụng ngay vào công việc thực tế và tạo ra giá trị cho doanh nghiệp.
-=================================================================================
+================================================================================
 
 BA Bootcamp Domain – COLE.VN
 
